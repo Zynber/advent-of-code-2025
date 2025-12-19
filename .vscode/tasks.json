@@ -7,6 +7,7 @@
             "command": "/usr/bin/g++",
             "args": [
                 "-fdiagnostics-color=always",
+                "-std=c++23",
                 "-Wall",
                 "-Wextra",
                 "-Wpedantic",
